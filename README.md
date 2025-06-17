@@ -1,2 +1,2 @@
 # OptoPACE_Bioreactor
-Arduino code and hardware specs for OptoPACE reactor
+Arduino code and hardware specs for OptoPACE Bioreactor
