@@ -97,6 +97,7 @@ Name: OptoPACE_Bioreactor
 Persistent identifier: https://github.com/BioProteanLabs/OptoPACE_Bioreactor/tree/main
 Publisher: Benjamin Bartelle
 Date published: 5-21-2025
+
 Discussion:
 Conclusions:
 	We developed some key innovations over three cycles of an iterative design/build/test process. We developed a 650nm laser and photoresistor system for optical density measurements and utilized the Arduino microcontroller’s capabilities by opting for direct PWM control of motors. We opted for NeoPixels for optogenetic control LEDs, instead of developing our own LED driver circuits because of the compact form factor and active open source developer community. 
@@ -104,7 +105,7 @@ Overall, we found that a modular bioreactor design was key to device adaptabilit
 Practical use cases highlighted safety and accessibility issues, leading to improvements like automated cleaning and calibration via the LCD-controlled clock timer and the successful adoption of a single peristaltic pump to reduce cost and physical footprint. These lessons from iteration and user feedback allowed us to develop a compact, reliable, and user-friendly system that is accessible at low cost to academic and educational labs.
 Future Work
 One of the difficulties with our device is maintaining that the light-emitting hardware components properly interact with available optogenetic tools. As they are now, the laser (650 nm) emits in the suppression range of the CcaS/CcaR optogenetic tool (Table 1). Utilizing a laser with a wavelength outside the range of CcaS/CcaR would allow measurements without affecting the system. In testing, CcaS/CcaR did not have a large dynamic range between light and dark states, suggesting the biological tools will require engineering before they are compatible with the OPB. Our device was built for DE with optogenetics however, and we plan to use the OPB to optimize the available biological tool set to operate around the available range of wavelengths with a broader switching capacity. Finally, while directed evolution offers incredible scale in terms of candidates, the OPB is limited to a single lagoon. Future hardware iterations will focus on parallelization and scaling of experiments through integration with other lab automation devices.
-Paper author contributions (CRediT)
+Paper author contributions (CRediT):
 
 Ryan D. Crane worked on developing and testing the code, designing and assembling the electronics for tests, assembling portions of the hardware, and writing the manuscript. 
 William T. Isaacs worked on designing and modeling the hardware, designing and assembling the electronics, writing portions of the code, and testing the fully integrated system.  
@@ -113,14 +114,14 @@ Fernando Flores Mora provided initial schematics of example turbidostats and off
 Benjamin B. Bartelle mentored all members of the team, secured funding, and edited the manuscript.
 Acknowledgments
 We thank Dr. Ahmed Badran, Dr. Chris Takahashi, and Dr. Alan Costello for inspiration and useful discussions. We thank Alpha Sinworn, Ashley Tse, and other past and present members of the BioProtean Laboratory at ASU. Finally, we thank Sophia Cerna, Rori Hoover, Patrick Jiang and the DIYBio club at ASU.
-Funding statement
+Funding statement:
 This work was supported by support from:
 The Arizona State University Foundation
 Fulton Undergraduate Research Initiative
 NIH Office of the Director DP2MH136493 
-Competing interests
+Competing interests:
 The authors declare that they have no competing interests.
-References
+References:
 [1] Badran AH, Liu DR. 2015. In vivo continuous directed evolution. Current Opinion in Chemical Biology. 24:1–10. doi:10.1016/j.cbpa.2014.09.040.
 [2] De Baets J, De Paepe B, De Mey M. 2024. Delaying production with prokaryotic inducible expression systems. Microb Cell Fact. 23:249. doi:10.1186/s12934-024-02523-w.
 [3] Esvelt KM, Carlson JC, Liu DR. 2011. A System for the Continuous Directed Evolution of Biomolecules. Nature. 472(7344):499–503. doi:10.1038/nature09929.
