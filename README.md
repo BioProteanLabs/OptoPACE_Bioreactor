@@ -148,17 +148,17 @@ Software: MIT-0. See: https://opensource.org/license/mit-0
 
 
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%201%5D.jpeg)
-
+[Step 1]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%202%5D.jpeg)
-
+[Step 2]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%203%5D%20.jpeg)
-
+[Step 3]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%204%5D.jpeg) 
-
+[Step 4]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%205%5D.jpeg)
-
+[Step 5]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%206%5D%20.jpeg)
-
+[Step 6]
 ![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Parts%20connected%20to%20microcontroller%20%5Bnot%20shown%20in%20assembly%5D.jpeg)
-
+[Parts connected to microcontroller not shown in assembly]
 
