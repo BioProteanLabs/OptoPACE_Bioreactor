@@ -147,7 +147,18 @@ Hardware: CERN-OHL-P Permissive. See: https://cern-ohl.web.cern.ch
 Software: MIT-0. See: https://opensource.org/license/mit-0
 
 
-![](images/Prototype%20assembly%20[Step 1].jpeg)
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%201%5D.jpeg)
 
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%202%5D.jpeg)
+
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%203%5D%20.jpeg)
+
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%204%5D.jpeg) 
+
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%205%5D.jpeg)
+
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Prototype%20assembly%20%5BStep%206%5D%20.jpeg)
+
+![Image](https://github.com/BioProteanLabs/OptoPACE_Bioreactor/blob/main/Parts%20connected%20to%20microcontroller%20%5Bnot%20shown%20in%20assembly%5D.jpeg)
 
 
