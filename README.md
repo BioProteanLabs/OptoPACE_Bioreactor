@@ -147,4 +147,7 @@ Hardware: CERN-OHL-P Permissive. See: https://cern-ohl.web.cern.ch
 Software: MIT-0. See: https://opensource.org/license/mit-0
 
 
+![](images/Prototype%20assembly%20[Step 1].jpeg)
+
+
 
