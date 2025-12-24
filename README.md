@@ -8,8 +8,9 @@ Authors
 4. Michelle Kim
 5. Nicole Salazar
 6. Brianna Botello
-7. Flores-Mora, Fernando E.
-8. Bartelle, Benjamin B.
+7. Kaden Gonani
+8. Flores-Mora, Fernando E.
+9. Bartelle, Benjamin B.
 
 *co-first
 
