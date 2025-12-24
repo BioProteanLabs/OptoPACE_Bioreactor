@@ -6,10 +6,10 @@
 1. Crane, Ryan D.* 
 2. Isaacs, William T.*
 3. Ijaz, Manal*
-4. Michelle Kim
-5. Nicole Salazar
-6. Brianna Botello
-7. Kaden Gonani
+4. Salazar, Nicole
+5. Botello, Brianna
+6. Kim, Michelle
+7. Gonani, Kaeden W.
 8. Flores-Mora, Fernando E.
 9. Bartelle, Benjamin B.
 
