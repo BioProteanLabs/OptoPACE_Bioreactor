@@ -58,26 +58,43 @@ Despite their potential, experimental-scale turbidostat bioreactors are not comm
 
 
 ## References
-[1]	K. M. Esvelt, J. C. Carlson, and D. R. Liu, “A System for the Continuous Directed Evolution of Biomolecules,” Nature, vol. 472, no. 7344, pp. 499–503, Apr. 2011, doi: 10.1038/nature09929. 
-[2]	A. H. Badran and D. R. Liu, “In vivo continuous directed evolution,” Current Opinion in Chemical Biology, vol. 24, pp. 1–10, Feb. 2015, doi: 10.1016/j.cbpa.2014.09.040. 
-[3]	A. Novick and L. Szilard, “Description of the Chemostat,” Science, vol. 112, no. 2920, pp. 715–716, Dec. 1950, doi: 10.1126/science.112.2920.715. 
-[4]	C. N. Takahashi, A. W. Miller, F. Ekness, M. J. Dunham, and E. Klavins, “A Low Cost, Customizable Turbidostat for Use in Synthetic Circuit Characterization,” ACS Synth Biol, vol. 4, no. 1, pp. 32–38, Jan. 2015, doi: 10.1021/sb500165g. 
-[5]	A. M. McGeachy, Z. A. Meacham, and N. T. Ingolia, “An Accessible Continuous-Culture Turbidostat for Pooled Analysis of Complex Libraries,” ACS Synth. Biol., vol. 8, no. 4, pp. 844–856, Apr. 2019, doi: 10.1021/acssynbio.8b00529. 
-[6]	J. De Baets, B. De Paepe, and M. De Mey, “Delaying production with prokaryotic inducible expression systems,” Microb Cell Fact, vol. 23, p. 249, Sept. 2024, doi: 10.1186/s12934-024-02523-w. 
-[7]	T. Sanganeria and B. Bordoni, “Genetics, Inducible Operon,” in StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. Accessed: May 28, 2025. [Online]. Available: http://www.ncbi.nlm.nih.gov/books/NBK564361/ 
-[8]	R. Ohlendorf, R. R. Vidavski, A. Eldar, K. Moffat, and A. Möglich, “From Dusk till Dawn: One-Plasmid Systems for Light-Regulated Gene Expression,” Journal of Molecular Biology, vol. 416, no. 4, pp. 534–542, Mar. 2012, doi: 10.1016/j.jmb.2012.01.001. 
-[9]	E. J. Olson, L. A. Hartsough, B. P. Landry, R. Shroff, and J. J. Tabor, “Characterizing bacterial gene circuit dynamics with optically programmed gene expression signals,” Nat Methods, vol. 11, no. 4, pp. 449–455, Apr. 2014, doi: 10.1038/nmeth.2884. 
-[10]	P. Ramakrishnan and J. J. Tabor, “Repurposing Synechocystis PCC6803 UirS–UirR as a UV-Violet/Green Photoreversible Transcriptional Regulatory Tool in E. coli,” ACS Synth. Biol., vol. 5, no. 7, pp. 733–740, July 2016, doi: 10.1021/acssynbio.6b00068. 
-[11]	L. Forbes, M. Papanatsiou, A. Palombo, J. M. Christie, and A. Amtmann, “Optogenetic control of gene expression in the cyanobacterium Synechococcus sp. PCC 7002,” Front. Bioeng. Biotechnol., vol. 12, Jan. 2025, doi: 10.3389/fbioe.2024.1529022. 
-[12]	S. C. Popa, I. Inamoto, B. W. Thuronyi, and J. A. Shin, “Phage Assisted Continuous Evolution (PACE): A How-to Guide for Directed Evolution,” Nov. 2019, Accessed: Mar. 09, 2020. [Online]. Available: https://www.preprints.org/manuscript/201911.0040/v1 
-[13]	S. C. Popa, I. Inamoto, B. W. Thuronyi, and J. A. Shin, “Phage-Assisted Continuous Evolution (PACE): A Guide Focused on Evolving Protein-DNA Interactions,” ACS Omega, vol. 5, no. 42, pp. 26957–26966, Oct. 2020, doi: 10.1021/acsomega.0c03508. 
-[14]	U. Riek, R. Tuerk, T. Wallimann, U. Schlattner, and D. Neumann, “An Automated Home-Built Low-Cost Fermenter Suitable for Large-Scale Bacterial Expression of Proteins in Escherichia Coli,” BioTechniques, vol. 45, no. 2, pp. 187–189, Aug. 2008, doi: 10.2144/000112830. 
-[15]	D. Matteau, V. Baby, S. Pelletier, and S. Rodrigue, “A Small-Volume, Low-Cost, and Versatile Continuous Culture Device,” PLOS ONE, vol. 10, no. 7, p. e0133384, July 2015, doi: 10.1371/journal.pone.0133384. 
-[16]	B. G. Wong, C. P. Mancuso, S. Kiriakov, C. J. Bashor, and A. S. Khalil, “Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER,” Nat Biotechnol, vol. 36, no. 7, pp. 614–623, Aug. 2018, doi: 10.1038/nbt.4151. 
-[17]	Z. J. Heins, C. P. Mancuso, S. Kiriakov, B. G. Wong, C. J. Bashor, and A. S. Khalil, “Designing Automated, High-throughput, Continuous Cell Growth Experiments Using eVOLVER,” J Vis Exp, no. 147, May 2019, doi: 10.3791/59652. 
-[18]	V. Gopalakrishnan et al., “A low-cost, open-source evolutionary bioreactor and its educational use,” Sept. 01, 2022, bioRxiv. doi: 10.1101/729434. 
+[1]	*K. M. Esvelt, J. C. Carlson, and D. R. Liu, “A System for the Continuous Directed Evolution of Biomolecules,” Nature, vol. 472, no. 7344, pp. 499–503, Apr. 2011, doi: 10.1038/nature09929.*
 
-Licenses
+[2]*A. H. Badran and D. R. Liu, “In vivo continuous directed evolution,” Current Opinion in Chemical Biology, vol. 24, pp. 1–10, Feb. 2015, doi: 10.1016/j.cbpa.2014.09.040.*
+
+[3]	*A. Novick and L. Szilard, “Description of the Chemostat,” Science, vol. 112, no. 2920, pp. 715–716, Dec. 1950, doi: 10.1126/science.112.2920.715.* 
+
+[4]	*C. N. Takahashi, A. W. Miller, F. Ekness, M. J. Dunham, and E. Klavins, “A Low Cost, Customizable Turbidostat for Use in Synthetic Circuit Characterization,” ACS Synth Biol, vol. 4, no. 1, pp. 32–38, Jan. 2015, doi: 10.1021/sb500165g.* 
+
+[5]	*A. M. McGeachy, Z. A. Meacham, and N. T. Ingolia, “An Accessible Continuous-Culture Turbidostat for Pooled Analysis of Complex Libraries,” ACS Synth. Biol., vol. 8, no. 4, pp. 844–856, Apr. 2019, doi: 10.1021/acssynbio.8b00529.* 
+
+[6]	*J. De Baets, B. De Paepe, and M. De Mey, “Delaying production with prokaryotic inducible expression systems,” Microb Cell Fact, vol. 23, p. 249, Sept. 2024, doi: 10.1186/s12934-024-02523-w.*
+
+[7]	*T. Sanganeria and B. Bordoni, “Genetics, Inducible Operon,” in StatPearls, Treasure Island (FL): StatPearls Publishing, 2025. Accessed: May 28, 2025. [Online]. Available: http://www.ncbi.nlm.nih.gov/books/NBK564361/* 
+
+[8]	*R. Ohlendorf, R. R. Vidavski, A. Eldar, K. Moffat, and A. Möglich, “From Dusk till Dawn: One-Plasmid Systems for Light-Regulated Gene Expression,” Journal of Molecular Biology, vol. 416, no. 4, pp. 534–542, Mar. 2012, doi: 10.1016/j.jmb.2012.01.001.* 
+
+[9]	*E. J. Olson, L. A. Hartsough, B. P. Landry, R. Shroff, and J. J. Tabor, “Characterizing bacterial gene circuit dynamics with optically programmed gene expression signals,” Nat Methods, vol. 11, no. 4, pp. 449–455, Apr. 2014, doi: 10.1038/nmeth.2884.* 
+
+[10]*P. Ramakrishnan and J. J. Tabor, “Repurposing Synechocystis PCC6803 UirS–UirR as a UV-Violet/Green Photoreversible Transcriptional Regulatory Tool in E. coli,” ACS Synth. Biol., vol. 5, no. 7, pp. 733–740, July 2016, doi: 10.1021/acssynbio.6b00068.*
+
+[11]*L. Forbes, M. Papanatsiou, A. Palombo, J. M. Christie, and A. Amtmann, “Optogenetic control of gene expression in the cyanobacterium Synechococcus sp. PCC 7002,” Front. Bioeng. Biotechnol., vol. 12, Jan. 2025, doi: 10.3389/fbioe.2024.1529022.* 
+
+[12]*S. C. Popa, I. Inamoto, B. W. Thuronyi, and J. A. Shin, “Phage Assisted Continuous Evolution (PACE): A How-to Guide for Directed Evolution,” Nov. 2019, Accessed: Mar. 09, 2020. [Online]. Available: https://www.preprints.org/manuscript/201911.0040/v1*
+
+[13]*S. C. Popa, I. Inamoto, B. W. Thuronyi, and J. A. Shin, “Phage-Assisted Continuous Evolution (PACE): A Guide Focused on Evolving Protein-DNA Interactions,” ACS Omega, vol. 5, no. 42, pp. 26957–26966, Oct. 2020, doi: 10.1021/acsomega.0c03508.* 
+
+[14]*U. Riek, R. Tuerk, T. Wallimann, U. Schlattner, and D. Neumann, “An Automated Home-Built Low-Cost Fermenter Suitable for Large-Scale Bacterial Expression of Proteins in Escherichia Coli,” BioTechniques, vol. 45, no. 2, pp. 187–189, Aug. 2008, doi: 10.2144/000112830.* 
+
+[15]*D. Matteau, V. Baby, S. Pelletier, and S. Rodrigue, “A Small-Volume, Low-Cost, and Versatile Continuous Culture Device,” PLOS ONE, vol. 10, no. 7, p. e0133384, July 2015, doi: 10.1371/journal.pone.0133384.*
+
+[16]*B. G. Wong, C. P. Mancuso, S. Kiriakov, C. J. Bashor, and A. S. Khalil, “Precise, automated control of conditions for high-throughput growth of yeast and bacteria with eVOLVER,” Nat Biotechnol, vol. 36, no. 7, pp. 614–623, Aug. 2018, doi: 10.1038/nbt.4151.*
+
+[17]*Z. J. Heins, C. P. Mancuso, S. Kiriakov, B. G. Wong, C. J. Bashor, and A. S. Khalil, “Designing Automated, High-throughput, Continuous Cell Growth Experiments Using eVOLVER,” J Vis Exp, no. 147, May 2019, doi: 10.3791/59652.* 
+
+[18]*V. Gopalakrishnan et al., “A low-cost, open-source evolutionary bioreactor and its educational use,” Sept. 01, 2022, bioRxiv. doi: 10.1101/729434.*
+
+##
 Article: CC-BY 4.0. See: https://creativecommons.org/share-your-work/cclicenses/ 
 Hardware: CERN-OHL-P Permissive. See: https://cern-ohl.web.cern.ch 
 Software: MIT-0. See: https://opensource.org/license/mit-0
