@@ -1,7 +1,8 @@
 # OptoPACE_Bioreactor
 
-The OptoPACE Bioreactor: An Accessible Turbidostat System with Phage-Assisted Continuous Evolution Capability and Optogenetic Controls
-Authors
+## The OptoPACE Bioreactor: An Accessible Turbidostat System with Phage-Assisted Continuous Evolution Capability and Optogenetic Controls
+
+## Authors
 1. Crane, Ryan D.* 
 2. Isaacs, William T.*
 3. Ijaz, Manal*
